@@ -1,4 +1,5 @@
 Yoga Steps Detection and Prediction System
+
 This project involves a computer vision-based application that identifies yoga poses in real-time using a webcam. Built with Python, Machine Learning, and SQLite DB3, the system is designed to help yoga practitioners monitor their poses and improve their practice while allowing instructors to provide personalized feedback.
 
 Abstract
